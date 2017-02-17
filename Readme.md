@@ -1,4 +1,4 @@
-# Cannelloni [![Build Status](https://travis-ci.org/cbuschka/cannelloni.svg?branch=master)](https://travis-ci.org/cbuschka/cannelloni)
+# Cannelloni [![Build Status](https://travis-ci.org/cbuschka/cannelloni.svg?branch=master)](https://travis-ci.org/cbuschka/cannelloni) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cbuschka/cannelloni/master/LICENSE)
 
 #### A proof of concept for "cannelloni deployment".
 
