@@ -1,4 +1,4 @@
-# Cannelloni
+# Cannelloni [![Build Status](https://travis-ci.org/cbuschka/cannelloni.svg?branch=master)](https://travis-ci.org/cbuschka/cannelloni)
 
 #### A proof of concept for "cannelloni deployment".
 
